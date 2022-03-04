@@ -3,3 +3,5 @@ This was was replaced in feature-2
 Change the file in local repo
 
 this line was created in feature-2 branch
+
+Another modifcation in feature-2 branch
