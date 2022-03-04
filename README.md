@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is my first Github Repository
 
-Readme.md was edites right now .In locally in master branch.
+this line was modified manually durin conflicts resolution
